@@ -24,8 +24,8 @@ const Footer = () => {
          </div>
          <div className="second">
                     <span>Disney+ Hotstar App</span>
-                   <span><button className=""><i class="fab fa-google-play"></i>GET IT ON<br/> Google Play</button>               
-                    <button className=""><i class="fab fa-apple"></i>Download on the<br/> App Store</button></span>        </div>
+                   <span><button className=""><i class="fab fa-google-play"></i>Get it on<br Google Play/></button>               
+                    <button className=""><i class="fab fa-apple"></i>Download on the<br App Store/></button></span>        </div>
         </div>
         </div>
     )
