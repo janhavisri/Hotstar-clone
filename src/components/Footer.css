@@ -1,0 +1,61 @@
+.left>span {
+    font-size: medium;
+    font-weight: 400;
+    padding: 0 20px 0 0;
+    cursor: pointer;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    margin-top: 20px;
+    padding-left: 3px;
+}
+
+.left>span:hover {
+    color: #1f80e0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #121926;
+    padding-top: 80px;
+}
+
+.left>p {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: small;
+}
+
+
+/*.right > span {
+    color:rgba(255, 255, 255, 0.8);
+    font-size: medium;
+    font-weight: 400;
+    padding: 70px;
+  
+  }*/
+
+.right {
+    display: flex;
+    flex-direction: row;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    padding-right: 35px;
+    margin-bottom: 70px;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    padding-left: 35px;
+}
+
+.button {
+    cursor: pointer;
+}

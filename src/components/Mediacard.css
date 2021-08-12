@@ -1,0 +1,16 @@
+.Mediacard>img {
+    width: 150px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 3.5px;
+    margin-top: 15px;
+}
+
+.Mediacard {
+    margin: 5px;
+    transition: transform 100ms;
+}
+
+.Mediacard>img:hover {
+    transform: scale(1.20);
+}
