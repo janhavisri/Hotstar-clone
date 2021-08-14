@@ -1,5 +1,5 @@
 import './App.css';
-import Header from './components/Head';
+import Header from './components/Header';
 import Media from './components/Media';
 import Mediacard from './components/Mediacard';
 import Footer from './components/Footer';
