@@ -52,16 +52,16 @@ li {
 .nav-links li a {
     color: #ffffffcc;
     text-decoration: none;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 520;
     padding: 20px 15px 20px;
-    margin-top: 6px;
+    /* margin-bottom: 40px; */
     text-transform: none;
 }
 
 .kids {
-    margin-right: 100px;
-    margin-bottom: -30px;
+    margin-right: 350px;
+    margin-bottom: -60px;
 }
 
 .nav-links .drop-menu {
@@ -106,7 +106,7 @@ li {
 
 .header-right {
     padding: 20px 15px 20px;
-    padding-right: 10px;
+    padding-right: 15px;
 }
 
 .btn {
@@ -114,8 +114,8 @@ li {
     font-size: 12px;
     margin-left: 10px;
     height: 24px;
-    padding: 10px;
-    padding-bottom: 20px;
+    padding: 8px;
+    padding-bottom: 25px;
     background-color: #1f80e0;
     font-weight: 510;
     border-radius: 4px;
@@ -170,7 +170,7 @@ li {
         font-size: 10px;
         height: 20px;
         padding: 8px;
-        padding-bottom: 15px;
+        padding-bottom: 20px;
         font-weight: 450;
     }
     .header {
@@ -186,7 +186,7 @@ li {
         font-size: 9px;
         height: 17px;
         padding: 6px;
-        padding-bottom: 14px;
+        padding-bottom: 16px;
         font-weight: 420;
     }
     .header {
@@ -204,7 +204,9 @@ li {
     .header-right span {
         display: none;
     }
-    .header-right input {
-        display: none;
-    }
+    /* .header-right input { */
+    /* display: none; */
 }
+
+
+/* } */

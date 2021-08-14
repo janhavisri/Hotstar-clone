@@ -102,29 +102,29 @@ function App() {
     
       <div className="media-row">
         <div className="sports">
-      <iframe width="300" height="300" src="https://www.youtube.com/embed/0r5NC4XMJKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="300" height="300" src="https://www.youtube.com/embed/c_wtPtPuR70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-      <iframe width="300" height="300" src="https://www.youtube.com/embed/ssEzTsg0reE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="300" height="300" src="https://www.youtube.com/embed/6X7fAfaTf50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="300" height="300" src="https://www.youtube.com/embed/oRU3WocU-cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="325" height="300" src="https://www.youtube.com/embed/0r5NC4XMJKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="325" height="300" src="https://www.youtube.com/embed/c_wtPtPuR70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+      <iframe width="325" height="300" src="https://www.youtube.com/embed/ssEzTsg0reE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="325" height="300" src="https://www.youtube.com/embed/6X7fAfaTf50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="325" height="300" src="https://www.youtube.com/embed/oRU3WocU-cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
       </div>
       </div>
       <div className="watch">
-        <span className="span">Chhote Episodes, Free Har Roz</span>
+        <span className="span">Best of Superheroes</span>
       </div>
       <div className="col-md">
       <div className="media-row">
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9674/1019674-v-04c408d3e8b4"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6411/1036411-v-d1d14cd6f2e6"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3166/1023166-v-dfa5af5252af"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6405/1036405-v-f23f29faaa57"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6420/1036420-v-9d5e989e48c0"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6402/1036402-v-0742f7a366b6"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6409/1036409-v-261ace1b991e"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7794/977794-v"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7794/977794-v"/>
-          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6409/1036409-v-261ace1b991e"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1258/911258-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7809/877809-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5180/875180-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5157/875157-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1691/1011691-v-657881703c09"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4390/674390-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4622/674622-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4483/674483-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4511/674511-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4598/674598-v"/>
       </div>
       </div>
       <div className="watch">
@@ -134,13 +134,16 @@ function App() {
       <div className="media-row">
   
         <div className="video">
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/GF0H5DZAE2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/KPyNH7mZkGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/pymRhLERVI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/H04CEQLnPVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/ZYajW2ePmFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="260" height="250" src="https://www.youtube.com/embed/gSBcDCS9xLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      {/* <iframe width="260" height="250" src="https://www.youtube.com/embed/v4gSU1yEkpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5979/1035979-v-09d62aacd8ef"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/4281/1044281-v-016e59351328"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7416/957416-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/6385/1036385-v-fd14b0f1a326"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/5085/635085-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/7569/1027569-v-8a1cedee187f"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/old_images/vertical/MOVIE/6091/1000056091/1000056091-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/3029/1033029-v-bd928a1dd530"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/1529/571529-v"/>
+          <Mediacard img="https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/457/30457-v"/>
       </div>
       </div></div>
       <div className="watch" id="kids">
