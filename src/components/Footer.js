@@ -1,3 +1,5 @@
+
+
 import React from 'react'
 import'./Footer.css';
 
@@ -17,17 +19,34 @@ const Footer = () => {
     
             </div>
                <div className="right">
-                   <div className="first">
-            <span>Connect with Us</span>
-   <span><i class="fab fa-facebook-square"></i>
-   <i class="fab fa-twitter-square"></i></span>
+              <div className="first"> 
+              <div className="x">
+               <span>Connect with Us</span>
+               </div>
+               <div className="y">
+            <span>Disney+ Hotstar App</span>
+            </div>
+            </div>
+            <div className="second">
+                <div className="one">
+                    <div className="a"style={{paddingRight:'20px'}}>
+         <button className="btn-a" ><i className="icon"><img style={{height:"25px"}} src="fb.png"/></i></button>
+          </div>
+          <div className="b">
+          <button className="btn-b"><i className="icon"><img style={{height:"30px"}} src="tt.png"/></i></button>
+          </div>
+          </div>
+          <div className="two">
+          <div className="c"style={{paddingRight:'20px'}}>
+          <button className="btn-c"><span><i className="icon"><img style={{height:"35px"}}src="gp.png"/></i></span><span style={{color:" rgba(255, 255, 255, 0.8)"}}><h6>GET IT ON</h6><h4>Google Play</h4></span></button>               
          </div>
-         <div className="second">
-                    <span>Disney+ Hotstar App</span>
-                   <span><button className=""><i class="fab fa-google-play"></i>Get it on<br Google Play/></button>               
-                    <button className=""><i class="fab fa-apple"></i>Download on the<br App Store/></button></span>        </div>
+          <div className="d">
+          <button className="btn-d"><span><i className="icon"><img style={{height:"35px"}}src="apple.png"/></i></span><span  style={{color:" rgba(255, 255, 255, 0.8)"}}><h6>Download on the</h6><h4>App Store</h4></span></button>
         </div>
         </div>
+        </div>
+        </div>
+    </div>
     )
 }
 
